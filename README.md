@@ -21,9 +21,14 @@
 
 해당 프로젝트에서는  
 우선 집 구석에서 `언젠가는 다시 읽어봐야지...`라고 생각하고 방치해뒀던  
-**1. 자바의 정석 : 남궁성**
+**1. [자바의 정석](src%2FjavaBasics) : 남궁성**
 
 그리고 주변에서 추천받은 결과를 토대로 선정한 두 권의 책  
 **[2. 모던 인 자바 액션](https://www.yes24.com/Product/Goods/77125987)**  
 **[3. 이펙티브 자바](https://www.yes24.com/Product/Goods/65551284)**  
 이렇게 세 권을 깊이 다뤄볼 생각이다.
+
+---
+
+* 추가  
+[강의 링크 - The Java Code Manipulation : 백기선](https://www.inflearn.com/course/the-java-code-manipulation/dashboard)
