@@ -18,6 +18,10 @@ class Main {
 
         changeObject(d);
         System.out.println("main() : x = " + d.x);
+
+        Data copiedData = copy(d);
+        System.out.println("d.x = " + d.x);
+        System.out.println("copiedData.x = " + copiedData.x);
     }
 
     static void change(int x) { // 기본형 매개변수
@@ -27,5 +31,12 @@ class Main {
 
     static void changeObject(Data d) {
         d.x = 1000;
+    }
+
+    static Data copy(Data d) {
+        Data copiedData = new Data();
+        copiedData.x = d.x;
+
+        return copiedData;
     }
 }
